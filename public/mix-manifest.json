@@ -1,0 +1,15 @@
+{
+    "/js/app.js": "/js/app.js",
+    "/js/productos/principal.js": "/js/productos/principal.js",
+    "/js/ventas/principal.js": "/js/ventas/principal.js",
+    "/css/app.css": "/css/app.css",
+    "/css/style.css": "/css/style.css",
+    "/css/themes/layout/aside/dark.css": "/css/themes/layout/aside/dark.css",
+    "/css/themes/layout/brand/dark.css": "/css/themes/layout/brand/dark.css",
+    "/css/themes/layout/header/base/light.css": "/css/themes/layout/header/base/light.css",
+    "/css/themes/layout/header/menu/light.css": "/css/themes/layout/header/menu/light.css",
+    "/css/plugins/global/plugins.css": "/css/plugins/global/plugins.css",
+    "/css/plugins/custom/prismjs/prismjs.css": "/css/plugins/custom/prismjs/prismjs.css",
+    "/css/plugins/custom/fullcalendar/fullcalendar.css": "/css/plugins/custom/fullcalendar/fullcalendar.css",
+    "/css/dataTable/dataTables.bootstrap4.min.css": "/css/dataTable/dataTables.bootstrap4.min.css"
+}
